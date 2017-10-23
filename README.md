@@ -8,6 +8,7 @@
 - Questions. 用于记录Rust编程知识相关的考察题目。
   - Basic. 基础的编程知识考察题目。
   - Advance. 高级考察题目。
+  - Practice. 实践相关的问题。
 - Questions-and-Answers. 记录考察题目相关的答案。
 
 ## 贡献方法
